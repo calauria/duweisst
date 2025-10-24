@@ -14,7 +14,7 @@
 {{< 
     animate 
     fadeIn 
-    "<span class='explain'>...dass</span>" 
+    "<span class='dass'>...dass</span>" 
     delay=2s 
     duration=3s
 >}}
@@ -36,7 +36,7 @@
 >}}
 
 ::: {#cream-swing .animate__animated .animate__swing .animate__infinite}
-[![](images/cream_iso.png){width="25%" }]{#cream-fade .animate__animated .animate__fadeIn}
+[![](images/cream_iso.png){width="15%" }]{#cream-fade .animate__animated .animate__fadeIn}
 :::
 
 {{< 

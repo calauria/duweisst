@@ -30,18 +30,23 @@ body {
 }
 
 .entry { 
-    font-size: 750%;
+    font-size: 300%;
     color: $cadet-gray;
 }
 
+.dass { 
+    font-size: 200%;
+    color: #7fd4f0ff;
+}
+
 .explain { 
-    font-size: 300%;
-    color: $midnight-green; 
+    font-size: 200%;
+    color: $oxford-blue; 
 }
 
 .ich { 
-    font-size: 500%;
-    color: #975232ff; 
+    font-size: 250%;
+    color: #e65940ff; 
 }
 
 :root {
