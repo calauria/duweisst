@@ -1,0 +1,51 @@
+<!-- {{< include _includes/_front_matter.qmd >}} -->
+<!-- {{< include _includes/_init_fontawesome.qmd >}}  -->
+
+::: {.column-screen-inset .text-center}
+
+{{< 
+    animate 
+    fadeIn 
+    "<span class='entry'>Du weisst schon,...</span>" 
+    delay=1s 
+    duration=3s
+>}}
+
+{{< 
+    animate 
+    fadeIn 
+    "<span class='explain'>...dass</span>" 
+    delay=2s 
+    duration=3s
+>}}
+
+{{< 
+    animate 
+    fadeIn 
+    "<span class='ich'>Ich</span>" 
+    delay=3s 
+    duration=3s
+>}}
+
+{{< 
+    animate 
+    fadeIn 
+    "<span class='explain'>die</span>" 
+    delay=4s 
+    duration=3s
+>}}
+
+::: {#cream-swing .animate__animated .animate__swing .animate__infinite}
+[![](images/cream_iso.png){width="25%" }]{#cream-fade .animate__animated .animate__fadeIn}
+:::
+
+{{< 
+    animate 
+    fadeIn 
+    "<span class='explain'>gestern auch benutzt habe.</span>" 
+    delay=5s 
+    duration=3s
+>}}
+
+:::
+
