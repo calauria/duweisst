@@ -12,7 +12,7 @@ appendix-style: default
   
 format:
     html:
-        page-layout: full
+        page-layout: article
         theme: 
           - brand
           - _style/_custom.scss
