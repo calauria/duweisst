@@ -36,7 +36,7 @@
 >}}
 
 ::: {#cream-swing .animate__animated .animate__swing .animate__infinite}
-[![](images/cream_iso.png){width="35%" }]{#cream-fade .animate__animated .animate__fadeIn}
+[![](images/cream_iso.png){width="45%" }]{#cream-fade .animate__animated .animate__fadeIn}
 :::
 
 {{< 
